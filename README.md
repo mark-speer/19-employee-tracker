@@ -14,4 +14,4 @@ As a user, I want to be able to view my entire employee directory at once so tha
 
 clone this repo into your local and run 'npm i' in the root file of the folder. 
 This will install all neccesary dependancies and then type 'npm run start' in terminal to begin hosting locally.
-Alternatively, you can use the live version - hosted by heroku to access. access here . if running locally, navigate to your browser if not already open and put this url 'http://localhost:3000/' into the url address bar to find yourself on the react employee directory app. 
+Alternatively, you can use the live version - hosted by heroku to access. access here https://employee-tracker-reactjs.herokuapp.com/. if running locally, navigate to your browser if not already open and put this url 'http://localhost:3000/' into the url address bar to find yourself on the react employee directory app. 
